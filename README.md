@@ -332,8 +332,8 @@ PUT    /cases/{case_id}/notes
 ---
 
 # Authors
-Surabhi Nare
-Sejal Mahangare
+Surabhi Nare,
+Sejal Mahangare,
 Zoya Pathan
 
 GitHub Profiles:
