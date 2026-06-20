@@ -236,18 +236,6 @@ Start the FastAPI server:
 uvicorn main:app --reload
 ```
 
-Backend runs at:
-
-```text
-http://127.0.0.1:8000
-```
-
-API Documentation:
-
-```text
-http://127.0.0.1:8000/docs
-```
-
 ---
 
 # Running the Frontend
@@ -257,13 +245,6 @@ Start the Streamlit application:
 ```bash
 streamlit run streamlit_app.py
 ```
-
-Frontend runs at:
-
-```text
-http://localhost:8501
-```
-
 ---
 
 # Workflow
